@@ -1,8 +1,4 @@
-Below is a `README.md` file that mirrors the original style (same headings and formatting) while describing your current project. You can copy this text into your README file:
 
----
-
-# Dynamic API Server with Node.js & Express
 
 ## Description
 This project creates a dynamic Node.js API server that serves multiple endpoints for managing users and products. It allows clients to perform CRUD operations on users and products seamlessly, providing a clean and structured RESTful experience.
@@ -72,10 +68,6 @@ project/
 - אליאס דבאג  
 - נור עמאר
 
----
 
-### Sources
-- Express Documentation: [https://expressjs.com/](https://expressjs.com/) citeturn0search0
-- Node.js Documentation: [https://nodejs.org/en/docs/](https://nodejs.org/en/docs/) citeturn0search0
 
-This README maintains the same structure and font hierarchy as your original sample while detailing the features of your current project.
+
